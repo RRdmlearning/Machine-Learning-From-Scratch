@@ -1,5 +1,5 @@
 # Random-Forest
-*  简单的随机森林算法实现
+简单的随机森林算法实现
 <br>
 直接运行random_forest_example.py即可<br>
 <br>
