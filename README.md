@@ -7,7 +7,7 @@ http://www.dmlearning.cn/
 
 ## 算法目录
 - [Machine Learning From Scratch](#machine-learning-from-scratch)
-  * [Decision Tree](Machine-Learning-From-Scratch/decision_tree)
+  * [Decision Tree](Machine-Learning-From-Scratch/decision_tree/README.md)
   * [Random Forest](Machine-Learning-From-Scratch/random_forest)
   * [Gradient Boosting](Machine-Learning-From-Scratch/gradient_boosting_decision_tree)
   * [XGBoost](Machine-Learning-From-Scratch/xgboost)
