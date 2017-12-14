@@ -8,9 +8,9 @@ http://www.dmlearning.cn/
 ## 算法目录
 - [Machine Learning From Scratch](#machine-learning-from-scratch)
   * [Decision Tree](decision_tree/README.md)
-  * [Random Forest](Machine-Learning-From-Scratch/random_forest/README.md)
-  * [Gradient Boosting](Machine-Learning-From-Scratch/gradient_boosting_decision_tree/README.md)
-  * [XGBoost](Machine-Learning-From-Scratch/xgboost/README.md)
+  * [Random Forest](random_forest/README.md)
+  * [Gradient Boosting](gradient_boosting_decision_tree/README.md)
+  * [XGBoost](xgboost/README.md)
   * Principal Component Analysis
   * ICA
   * Support Vector Machine
