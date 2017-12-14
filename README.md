@@ -13,11 +13,11 @@ http://www.dmlearning.cn/
   * [XGBoost](Machine-Learning-From-Scratch/xgboost)
   * Principal Component Analysis
   * ICA
-  * Support Vector Machine]
-  * Linear Regression]
-  * Logistic Regression]
-  * Naive Bayes]
-  * Bayesian Regression]
+  * Support Vector Machine
+  * Linear Regression
+  * Logistic Regression
+  * Naive Bayes
+  * Bayesian Regression
   
  ## Reference
 借鉴了Erik的代码<br>
