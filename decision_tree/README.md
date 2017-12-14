@@ -1,9 +1,8 @@
 # Decision-Tree
 *  简单的决策树实现
-
-运行
-------
 *  直接运行decision_tree_classifier_example.py 或 decision_tree_regressor_example.py<br>
+
+
 
 源码讲解
 ------
