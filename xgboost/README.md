@@ -7,8 +7,8 @@
 
 源码讲解
 ------
-网址中附有源码讲解以及我学习决策树中查看的最容易理解的资料
-http://www.dmlearning.cn/single/c5f5c23878b04500a9ed74cf0e6e07bf.html<br>
+网址中附有源码讲解以及我学习XGBoost中查看的最容易理解的资料
+http://www.dmlearning.cn/single/6787c6e70d0940c49883de41ec3d046f.html<br>
 <br>
 <br>
-![image](https://github.com/RRdmlearning/DecisionTree/blob/master/code.png)
+![image](https://github.com/RRdmlearning/Random-Forest/blob/master/xgb.png)
