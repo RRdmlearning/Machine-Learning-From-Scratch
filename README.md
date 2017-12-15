@@ -11,7 +11,7 @@ http://www.dmlearning.cn/
   * [Random Forest](random_forest)
   * [Gradient Boosting](gradient_boosting_decision_tree)
   * [XGBoost](xgboost)
-  * [Principal Component] Analysis(pca)
+  * [Principal Component Analysis](pca)
   * ICA
   * Support Vector Machine
   * Linear Regression
