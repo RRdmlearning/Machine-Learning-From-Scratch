@@ -8,8 +8,8 @@
 
 源码讲解
 ------
-网址中附有源码讲解以及我学习决策树中查看的最容易理解的资料
-http://www.dmlearning.cn/single/c5f5c23878b04500a9ed74cf0e6e07bf.html<br>
+网址中附有源码讲解以及我学习随机森林中查看的最容易理解的资料
+http://www.dmlearning.cn/single/e819e9120dca41609da49f44c87ac7be.html<br>
 <br>
 <br>
-![image](https://github.com/RRdmlearning/DecisionTree/blob/master/code.png)
+![image](https://github.com/RRdmlearning/Random-Forest/blob/master/ran.png)
