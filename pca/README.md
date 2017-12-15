@@ -1,5 +1,5 @@
-# Principal-Component-Analysis(PCA)
-简单的主成分分析算法实现
+# PCA
+简单的主成分分析(PCA)算法实现
 <br>
 pca.py即可<br>
 <br>
