@@ -29,7 +29,7 @@ class PCA():
         # 转换
         return np.matmul(X, eigenvectors)
 
-
+#主函数
 def main():
 
     # Demo of how to reduce the dimensionality of the data to two dimension
