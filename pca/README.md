@@ -9,7 +9,7 @@ pca.py即可<br>
 源码讲解
 ------
 网址中附有源码讲解以及我学习pca中查看的最容易理解的资料
-http://www.dmlearning.cn/single/e819e9120dca41609da49f44c87ac7be.html<br>
+http://www.dmlearning.cn/single/64e29cb6d346499c92938ecdecbe9faa.html<br>
 <br>
 <br>
-![image](https://github.com/RRdmlearning/Random-Forest/blob/master/ran.png)
+![image](https://github.com/RRdmlearning/Random-Forest/blob/master/pca.png)
