@@ -16,7 +16,7 @@ http://www.dmlearning.cn/
   * Support Vector Machine
   * Linear Regression
   * Logistic Regression
-  * Naive Bayes
+  * [Naive Bayes](naive_bayes)
   * Bayesian Regression
   
  ## Reference
