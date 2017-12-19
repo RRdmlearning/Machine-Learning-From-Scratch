@@ -1,4 +1,4 @@
-# Naive bayes
+# Naive Bayes
 简单的朴素贝叶斯算法实现
 <br>
 直接运行naive_bayes.py即可<br>
