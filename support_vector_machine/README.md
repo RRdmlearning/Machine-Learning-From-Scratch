@@ -1,4 +1,4 @@
-#Support-Vector-Machine
+Support-Vector-Machine
 支持向量机(SVM)算法实现
 <br>
 直接运行svm_example.py即可<br>
