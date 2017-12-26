@@ -22,7 +22,7 @@ class PCA():
         eigenvalues, eigenvectors = np.linalg.eig(covariance_matrix)
 
         # 对特征向量排序，并取最大的前n_component组
-        idx = np.argsort(eigenvalues[::-1])
+        idx = eigenvalues.argsort()[::-1]
         eigenvectors = eigenvectors[:, idx]
         eigenvectors = eigenvectors[:, :n_components]
 
