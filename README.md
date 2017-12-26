@@ -13,7 +13,7 @@ http://www.dmlearning.cn/
   * [XGBoost](xgboost)
   * [Principal Component Analysis](pca)
   * ICA
-  * Support Vector Machine
+  * Support Vector Machine(support_vector_machine)
   * Linear Regression
   * Logistic Regression
   * [Naive Bayes](naive_bayes)
