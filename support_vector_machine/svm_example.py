@@ -11,7 +11,6 @@ from sklearn.datasets import make_classification
 from pca.pca import *
 from support_vector_machine.kernels import *
 from support_vector_machine.svmModel import *
-from support_vector_machine.tool import *
 logging.basicConfig(level=logging.DEBUG)
 
 import time
