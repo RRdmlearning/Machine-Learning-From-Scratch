@@ -18,6 +18,7 @@ http://www.dmlearning.cn/
   * [Logistic Regression](logistic_regression)
   * [Naive Bayes](naive_bayes)
   * Bayesian Regression
+  * [K Nearest Neighbors](k_nearest_neighbors)
   
  ## Reference
 借鉴了Erik的代码<br>
