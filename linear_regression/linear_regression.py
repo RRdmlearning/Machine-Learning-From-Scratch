@@ -78,11 +78,11 @@ class LinearRegression():
             # 梯度下降
             for i in range(self.n_iterations):
                 y_pred = X.dot(self.w)
-                loss = np.mean(0.5 * (y_pred - y) ** 2) + self.regularization(self.w)
+                loss = np.mean(0.5 * (y_pred - y) ** 2) + self.regularization(self.w) #计算loss
                 # print(loss)
                 self.training_errors.append(loss)
-                w_grad = X.T.dot(y_pred - y) + self.regularization.grad(self.w)  # (y_pred - y).T.dot(X)
-                self.w = self.w - self.learning_rate * w_grad
+                w_grad = X.T.dot(y_pred - y) + self.regularization.grad(self.w)  # (y_pred - y).T.dot(X)，计算梯度
+                self.w = self.w - self.learning_rate * w_grad #更新权值w
         else:
             # 正规方程
             X = np.matrix(X)
@@ -112,7 +112,7 @@ def main():
 
     model.fit(X_train, y_train)
 
-    # Training error plot
+    # Training error plot 画loss的图
     n = len(model.training_errors)
     training, = plt.plot(range(n), model.training_errors, label="Training Error")
     plt.legend(handles=[training])
@@ -132,7 +132,7 @@ def main():
     # Color map
     cmap = plt.get_cmap('viridis')
 
-    # Plot the results
+    # Plot the results，画拟合情况的图
     m1 = plt.scatter(366 * X_train, y_train, color=cmap(0.9), s=10)
     m2 = plt.scatter(366 * X_test, y_test, color=cmap(0.5), s=10)
     plt.plot(366 * X, y_pred_line, color='black', linewidth=2, label="Prediction")
